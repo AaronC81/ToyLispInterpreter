@@ -1,0 +1,9 @@
+c:\users\aaron\documents\visual studio 2017\Projects\LispInterpreter\LispInterpreter\bin\Debug\netcoreapp1.1\LispInterpreter.deps.json
+c:\users\aaron\documents\visual studio 2017\Projects\LispInterpreter\LispInterpreter\bin\Debug\netcoreapp1.1\LispInterpreter.runtimeconfig.json
+c:\users\aaron\documents\visual studio 2017\Projects\LispInterpreter\LispInterpreter\bin\Debug\netcoreapp1.1\LispInterpreter.runtimeconfig.dev.json
+c:\users\aaron\documents\visual studio 2017\Projects\LispInterpreter\LispInterpreter\bin\Debug\netcoreapp1.1\LispInterpreter.dll
+c:\users\aaron\documents\visual studio 2017\Projects\LispInterpreter\LispInterpreter\bin\Debug\netcoreapp1.1\LispInterpreter.pdb
+c:\users\aaron\documents\visual studio 2017\Projects\LispInterpreter\LispInterpreter\obj\Debug\netcoreapp1.1\LispInterpreter.csprojResolveAssemblyReference.cache
+c:\users\aaron\documents\visual studio 2017\Projects\LispInterpreter\LispInterpreter\obj\Debug\netcoreapp1.1\LispInterpreter.AssemblyInfo.cs
+c:\users\aaron\documents\visual studio 2017\Projects\LispInterpreter\LispInterpreter\obj\Debug\netcoreapp1.1\LispInterpreter.dll
+c:\users\aaron\documents\visual studio 2017\Projects\LispInterpreter\LispInterpreter\obj\Debug\netcoreapp1.1\LispInterpreter.pdb
